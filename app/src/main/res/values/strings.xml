@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirebaseUAS</string>
+
+    <array name="prodi_option">
+        <item>Teknik Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Teknologi Informasi</item>
+    </array>
+
+    <array name="mata_kuliah">
+        <item>Pemrograman Mobile</item>
+        <item>Kalkulus</item>
+        <item>Statistika Probabilitas</item>
+        <item>Metode Penelitian</item>
+        <item>Kriptografi</item>
+    </array>
+</resources>
